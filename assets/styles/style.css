@@ -17,11 +17,12 @@ h2, h3 {
 }
  
  
-.bg footer {
+footer {
    padding: 20px;
    color: white;
-   background-color: #00a2c6
-   
+   background-color: #00a2c6;
+   text-align: center;
+   color: white; 
 }
 
 nav a:hover { 
